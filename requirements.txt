@@ -1,0 +1,4 @@
+requests~=2.25.1
+urllib3~=1.26.3
+certifi~=2020.12.5
+setuptools~=53.0.0
